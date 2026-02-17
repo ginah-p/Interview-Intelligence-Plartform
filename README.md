@@ -116,7 +116,7 @@ pip
 
 1. **Clone the repository**
 ```bash
-git clone  (https://github.com/ginah-p/Interview-Intelligence-Plartform)
+git clone  (https://github.com/ginah-p/Interview-Intelligence-Platform)
 cd interview-analytics-platform
 ```
 
